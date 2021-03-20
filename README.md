@@ -3,7 +3,7 @@
 - Author: ***Cao Hưng Phú***
 - Language: ***Python***
 
-# Cách sử dụng
+# Usage
 - Yêu cầu: **Python3**
 - File hp_taikhoan.txt: username dòng 1, password dòng 2
 - File hp_mamon.txt: Mỗi môn 1 dòng
